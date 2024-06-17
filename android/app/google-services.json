@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303882680944",
+    "project_id": "reproductor-7bbc6",
+    "storage_bucket": "reproductor-7bbc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303882680944:android:e4d372d5577d40062112b5",
+        "android_client_info": {
+          "package_name": "com.example.pryind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbOpTQwQpyC8PqsO3Df7C6-ROeh_dbLuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
